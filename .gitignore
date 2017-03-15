@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+# js libs from Bower
+/VickreyTicketAuctionSite/wwwroot/lib/
